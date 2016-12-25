@@ -3,7 +3,9 @@ Source code for a Movie Trailer Website.
 
 ## Instructions
 To launch the Movie Trailer Website locally:
+
 1. Download or clone this repository.
+
 1. Execute the following command from the project's directory:
 ```
 python program.py
